@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @WoooJH
-- 👀 I’m interested in PDEs, in particular, mathematical and computational fluid dynamics.
-- 🌱 I’m currently learning mathematics and chemistry.
-- 💞️ I’m looking to collaborate on computational fluid dynamics
-- 📫 How to reach me ...
+- 👋 Hi, I’m Jaehyun Woo.
+- 👀 I’m interested in mathematical analysis, in particular, harmonic analysis.
+- 🌱 I majored in mathematics with minor in chemistry.
 
 <!---
 WoooJH/WoooJH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
